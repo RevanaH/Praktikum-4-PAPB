@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248310228596",
+    "project_id": "fir-todo-app-c2c09",
+    "storage_bucket": "fir-todo-app-c2c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248310228596:android:899e882baacfbc2f1ed321",
+        "android_client_info": {
+          "package_name": "com.example.praktikum4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Qk09XNBxwVVZBIR9ZyC7W1LBMFvuQ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
